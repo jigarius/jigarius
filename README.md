@@ -55,4 +55,4 @@ working on it in 2015, I couldn't get myself to delete the code.
 
 I wrote GUP (Go Up) to explore Bash and to simplify and speed up CLI navigation.
 In simple terms, GUP is a Bash tool that lets you write `gup 3` instead of
-`cd ../../..`. It can to way more than that though 😉.
+`cd ../../..`. It can do more than that though 😉.
