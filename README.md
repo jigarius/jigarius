@@ -11,6 +11,12 @@ T2R is a [Redmine](https://redmine.org/) plugin that provides a GUI for
 importing time logs from [Toggl](https://toggl.com/) into Redmine. As my first
 full-fledged Ruby project, this project holds a special place in my heart.
 
+#### [Clibato](https://github.com/jigarius/clibato)
+
+Clibato is a simple backup/restore tool. I created it to backup and restore
+my .dot files, and to have fun with Python 🐍. Do you backup your dotfiles to
+a Git Repo? Try Clibato.
+
 #### [Rochambeau](https://github.com/jigarius/rochambeau)
 
 Rochambeau is the CLI version of classic Rock-Paper-Scissors. I wrote this
