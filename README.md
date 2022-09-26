@@ -5,6 +5,11 @@ Visit [jigarius.com](https://jigarius.com/) for more about me or to read my blog
 
 Feel free to explore my repositories!
 
+#### [Drall](https://github.com/jigarius/drall)
+
+Drall is a tool that helps run drush commands on multi-site Drupal installations.
+One command to drush them all.
+
 #### [Toggl2Redmine](https://github.com/jigarius/toggl2redmine)
 
 T2R is a [Redmine](https://redmine.org/) plugin that provides a GUI for
