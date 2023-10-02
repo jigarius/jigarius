@@ -33,13 +33,6 @@ Lizard 🦎 and Spock 🖖🏽.
 I came across the Mission Mars 👾 coding challenge in early 2020. I wrote this
 solution in order to POOP (Practice Object-Oriented Programming) in Ruby.
 
-#### [SPCA Scanner](https://github.com/jigarius/spca-scanner)
-
-Late in 2020, I was thinking about adopting a cat 🐈. However, kittens get
-adopted very fast from the Montreal animal shelter (SPCA). I used this problem
-as an excuse to write some Object-Oriented Ruby code that scans the SPCA
-website and sends you email notifications about new pets. 
-
 #### [Fizz-Buzz](https://github.com/jigarius?tab=repositories&q=fizz-buzz)
 
 While learning a programming language, the first app I usually write is a
@@ -50,6 +43,7 @@ like its package manager and tools for linting, type-checking, and testing.
   * [Fizz-Buzz PHP](https://github.com/jigarius/fizz-buzz-php)
   * [Fizz-Buzz Python](https://github.com/jigarius/fizz-buzz-python)
   * [Fizz-Buzz TypeScript](https://github.com/jigarius/fizz-buzz-typescript)
+  * [Fizz-Buzz C++](https://github.com/jigarius/fizz-buzz-cpp)
 
 Some of these solutions might seem complex, but remember that the objective is
 to explore the syntax and try out some fancy things.
